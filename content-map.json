@@ -1,0 +1,23 @@
+{
+    "name": "example",
+    "prefix": "%#PLACEHOLDER",
+    "placeholderMappings": {
+        "Header": [
+            "APPLICATION_NAME"
+        ],
+        "Hero": [
+            "HERO_HEADING_TEXT",
+            "HERO_SUBHEADING_TEXT"
+        ],
+        "Footer": [
+            "APPLICATION_NAME",
+            "FOOTER_TEXT"
+        ]
+    },
+    "placeholders": {
+        "APPLICATION_NAME": "TimeSync",
+        "HERO_HEADING_TEXT": "Organize Your Life, One Day at a Time",
+        "HERO_SUBHEADING_TEXT": "Effortlessly manage your schedule, set reminders, and boost productivity with our intuitive calendar app.",
+        "FOOTER_TEXT": "\u00a9 2023 TimeSync. Simplifying time management for a more organized you."
+    }
+}
